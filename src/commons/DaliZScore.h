@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <cmath>
 #include <string>
-#include <iostream> // for debug
+#include <iostream>
 
 class DaliCalculator {
 public:
